@@ -1,6 +1,10 @@
-venv/
+﻿venv/
 .venv/
 __pycache__/
 *.py[cod]
+.pytest_cache/
 *.sqlite-shm
 *.sqlite-wal
+data/*.db
+data/T800_Resultado.xlsx
+.env
