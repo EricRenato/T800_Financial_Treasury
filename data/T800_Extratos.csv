@@ -1,0 +1,2 @@
+statement_id,external_ref,bank_id,statement_date,settlement_date,description,face_amount
+EXT-001,CT-2026-001,Itau,2026-09-01,2026-09-01,Bank Certificate of Deposit (CD) Investment Agreement,-1000000.00
